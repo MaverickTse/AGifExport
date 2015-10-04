@@ -1,0 +1,6 @@
+External components:
+
+ImageMagick VC2013 build
+AForge.Net VC2013 build
+AviUtl SDK (output.h only)
+

@@ -1,0 +1,4 @@
+LIBRARY AGifExport.auo
+
+EXPORTS
+    GetOutputPluginTable
